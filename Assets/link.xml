@@ -1,0 +1,28 @@
+<linker>
+
+  <assembly fullname="mscorlib">
+    <namespace fullname="System.Security.Cryptography" preserve="all"/>
+  </assembly>
+
+  <assembly fullname="System">
+    <namespace fullname="System.Configuration" preserve="all"/>
+    <namespace fullname="System.ComponentModel" preserve="all"/>
+    <namespace fullname="System.Net.Configuration" preserve="all"/>
+    <namespace fullname="System.Runtime.InteropServices" preserve="all"/>
+    <namespace fullname="System.Collections.Generic" preserve="all"/>
+    <namespace fullname="System.Linq" preserve="all"/>
+    <namespace fullname="System.Text.RegularExpressions" preserve="all"/>
+    <namespace fullname="System.IO" preserve="all"/>
+    <namespace fullname="System" preserve="all"/>
+  </assembly>
+
+  <assembly fullname="Assembly-CSharp" preserve="all"/>
+  <assembly fullname="UnityEngine" preserve="all"/>
+
+  <assembly fullname="I18N" >
+    <type fullname="I18N.Common.Manager" preserve="all"/>
+  </assembly>
+  <assembly fullname="I18N.CJK">
+    <type fullname="I18N.CJK.CP936" preserve="all"/>
+  </assembly>        
+</linker>

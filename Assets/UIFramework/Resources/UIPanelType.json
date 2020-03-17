@@ -1,0 +1,74 @@
+{
+    "infoList": [
+        {
+            "panelTypeString": "ItemMessage",
+            "path": "UIPanel/ItemMessagePanel"
+        },
+
+        {
+            "panelTypeString": "Knapsack",
+            "path": "UIPanel/KnapsackPanel"
+        },
+
+        {
+            "panelTypeString": "MainMenu",
+            "path": "UIPanel/MainMenuPanel"
+        },
+
+        {
+            "panelTypeString": "Shop",
+            "path": "UIPanel/ShopPanel"
+        },
+
+        {
+            "panelTypeString": "Skill",
+            "path": "UIPanel/SkillPanel"
+        },
+
+        {
+            "panelTypeString": "System",
+            "path": "UIPanel/SystemPanel"
+        },
+
+        {
+            "panelTypeString": "Task",
+            "path": "UIPanel/TaskPanel"
+        },
+
+        {
+            "panelTypeString": "Test",
+            "path": "UIPanel/TestPanel"
+        },
+
+        {
+            "panelTypeString": "Togglebg",
+            "path": "UIPanel/TogglePanel"
+        },
+
+        {
+            "panelTypeString": "Loading",
+            "path": "UIPanel/LoadingPanel"
+        },
+        {
+            "panelTypeString": "ViewPager",
+            "path": "UIPanel/ViewPagerPanel"
+        },
+        {
+            "panelTypeString": "Camming",
+            "path": "UIPanel/Camming"
+        },
+        {
+            "panelTypeString": "WebSocket",
+            "path": "UIPanel/WebSocketPanel"
+        },
+        {
+            "panelTypeString": "FrameAnimation",
+            "path": "UIPanel/FrameAnimationPanel"
+        },
+        {
+            "panelTypeString": "Pay",
+            "path": "UIPanel/PayPanel"
+        }
+
+    ]
+}
